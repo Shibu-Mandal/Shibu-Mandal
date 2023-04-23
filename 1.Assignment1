@@ -1,0 +1,21 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package Assignment_Revision;
+
+/**
+ *
+ * @author mi664
+ */
+public class R_A_1 {
+    public static void main(String[] args) {
+        System.out.println("Name: Shibu Mandal");
+        System.out.println("Mobile: 01746636606");
+        System.out.println("Sub Inspector");
+        System.out.println("CT-Cyber crime Investigation Division");
+        System.out.println("CTTC, DMP, DHAKA.");
+    }
+    
+}
+>
